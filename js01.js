@@ -1,3 +1,6 @@
+//<![CDATA[
+// JQuery hover event with timeout by Taufik Nurrohman
+// https://plus.google.com/108949996304093815163/about
 (function(a) {
     a.fn.hoverTimeout = function(c, e, b, d) {
         return this.each(function() {
@@ -110,3 +113,4 @@ eval(function(_0x1995x1, _0x1995x2, _0x1995x3, _0x1995x4, _0x1995x5, _0x1995x6) 
     };
     return _0x1995x1;
 }(_0x3a04[0], 62, 313, _0x3a04[3][_0x3a04[2]](_0x3a04[1]), 0, {}));
+//]]>
